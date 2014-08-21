@@ -41,6 +41,6 @@ Column variables
 
 The column variables show a combination of activity and subject.
 
-1. Activity were classified into 6 classes (WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+1. Activity were classified into 6 classes (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 2. Subjects (volunteers) were indicated with a number from 1 to 30. 
 3. The column labels are shown as the form of activity and subject split by a period. For example, "WALKING.1" denotes the condition of WALKING and subject 1.
